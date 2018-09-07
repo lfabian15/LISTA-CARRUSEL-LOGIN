@@ -1,0 +1,16 @@
+.edit{
+	border-width:1px;
+	background: grey;
+	align-content: center;
+	width: 20%;
+	height: 70%;
+	margin-left: 40%;
+}
+.p{
+	border-width:1px;
+	background: grey;
+	align-content: center;
+	width: 20%;
+	height: auto;
+	margin-left: 40%;
+}
